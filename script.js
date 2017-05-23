@@ -7,3 +7,4 @@ window.onload = function(){
   });
 }
 // JavaScript
+/* This is a comment */
