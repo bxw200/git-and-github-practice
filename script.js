@@ -7,3 +7,8 @@ window.onload = function(){
   });
 }
 // JavaScript
+/* This is a comment */
+
+
+this is a test, this is a test!
+
